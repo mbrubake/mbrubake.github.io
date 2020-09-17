@@ -9,7 +9,7 @@ author_profile: true
   Current Students
 </h2>
 {% for post in site.collabs reversed %}
-  {% if post.student and not post.graduated %} {% include archive-single-student.html %} {% endif %}
+  {% if post.student and unless post.graduated %} {% include archive-single-student.html %} {% endif %}
 {% endfor %}
 
 <h2 class="archive__item-title" itemprop="headline">
