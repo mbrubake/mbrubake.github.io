@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marcus Brubaker"
+  name             : "Marcus A. Brubaker"
   avatar           : "profile.png"
   bio              : "Interested in Computer Vision, Machine Learning, Statistics and their application to a range of problems."
   location         : "York University, Toronto, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=x2wyjkAAAAAJ&hl=en"
-  email            :
+  email            : "mab@eecs.yorku.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-relative-links
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
