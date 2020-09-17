@@ -21,21 +21,21 @@ Education
 
 Work Experience and Affiliations
 ======
-* 2016-: Assistant Professor
+* 2016 - : Assistant Professor
   * Department of Electrical Engineering and Computer Science, York University
 
-* 2016-: Co-Founder
+* 2016 - : Co-Founder
   * Structura Biotechnology
 
-* 2020-: Academic Advisor
+* 2020 - : Academic Advisor
   * Borealis AI (Royal Bank of Canada)
 
-* 2018-2020: Research Director
+* 2018 - 2020: Research Director
   * Borealis AI (Royal Bank of Canada)
 
-* 2011-2018: Research Associate
+* 2011 - 2018: Research Associate
   * Cadre Research Labs
 
-* 2011-2016: Postdoctoral Fellow
+* 2011 - 2016: Postdoctoral Fellow
   * TTI-Chicago, 2011-2014.  Supervisor: Raquel Urtasun
   * University of Toronto, Scarborough, 2014-2016.  Supervisor: David J. Fleet
