@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -37,5 +37,5 @@ Work Experience and Affiliations
   * Cadre Research Labs
 
 * 2011 - 2016: Postdoctoral Fellow
-  * TTI-Chicago, 2011-2014.  Supervisor: Raquel Urtasun
-  * University of Toronto, Scarborough, 2014-2016.  Supervisor: David J. Fleet
+  * TTI-Chicago, 2011 - 2014.  Supervisor: Raquel Urtasun
+  * University of Toronto, Scarborough, 2014 - 2016.  Supervisor: David J. Fleet
