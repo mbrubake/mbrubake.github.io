@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a (very) short summary of my CV.  For full details, including a complete list of publications, talks and other details, please see my [full CV](cv.pdf).
+Below is a (very) short summary of my CV.  For more information, including a complete list of publications, talks and other details, please see my [full CV](../files/cv.pdf).
 
 Education
 ======
