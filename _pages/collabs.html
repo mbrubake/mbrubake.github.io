@@ -5,6 +5,9 @@ permalink: /collabs/
 author_profile: true
 ---
 
+<h2 class="archive__item-title" itemprop="headline">
+  Masters Students
+</h2>
 {% for post in site.collabs reversed %}
-  {% include archive-single-student.html %}
+  {% if post.type = "MSc Student" %} {% include archive-single-student.html %} {% endif %}
 {% endfor %}
