@@ -9,5 +9,5 @@ author_profile: true
   Masters Students
 </h2>
 {% for post in site.collabs reversed %}
-  {% if post.type = "MSc Student" %} {% include archive-single-student.html %} {% endif %}
+  {% if post.type == "MSc Student" %} {% include archive-single-student.html %} {% endif %}
 {% endfor %}
