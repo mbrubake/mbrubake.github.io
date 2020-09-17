@@ -6,8 +6,15 @@ author_profile: true
 ---
 
 <h2 class="archive__item-title" itemprop="headline">
-  Masters Students
+  Current Students
 </h2>
 {% for post in site.collabs reversed %}
-  {% if post.type == "MSc Student" %} {% include archive-single-student.html %} {% endif %}
+  {% if post.student and not post.graduated %} {% include archive-single-student.html %} {% endif %}
+{% endfor %}
+
+<h2 class="archive__item-title" itemprop="headline">
+  Graduated Students
+</h2>
+{% for post in site.collabs reversed %}
+  {% if post.student and post.graduated %} {% include archive-single-student.html %} {% endif %}
 {% endfor %}
