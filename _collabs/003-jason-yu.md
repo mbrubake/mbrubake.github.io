@@ -1,7 +1,7 @@
 ---
 name: "Jason Yu"
 link: "https://www.eecs.yorku.ca/~jjyu/"
-collection: students
+collection: collabs
 type: "MSc Student"
 permalink: /collabs/msc/jason-yu
 university: "York University"

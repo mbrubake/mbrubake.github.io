@@ -1,7 +1,7 @@
 ---
 name: "Abbas Masoumzadeh Tork"
 link: "https://www.eecs.yorku.ca/~abbasmz/"
-collection: students
+collection: collabs
 type: "MSc Student"
 permalink: /collabs/msc/abbas-masoumzadeh
 university: "York University"

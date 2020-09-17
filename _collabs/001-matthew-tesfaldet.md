@@ -1,7 +1,7 @@
 ---
 name: "Matthew Tesfaldet"
 link: "https://mtesfaldet.net/"
-collection: students
+collection: collabs
 type: "MSc Student"
 permalink: /collabs/msc/matthew-tesfaldet
 university: "York University"
