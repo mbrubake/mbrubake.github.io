@@ -1,9 +1,10 @@
 ---
-permalink: /join/
+permalink: /joining/
 title: "Join My Group"
 excerpt: "Join My Group"
 author_profile: true
 redirect_from: 
+  - /join/
   - /join.html
 ---
 
