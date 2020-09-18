@@ -19,4 +19,4 @@ I am interested in building rich, detailed models of the world which capture fun
 Most recently I have been focusing on probabilistic generative models, specifically normalizing flows.  My research has been exploring theoretical aspects of normalizing flows and their applications.  I also have an interest on the problem of estimating the 3D structure of biological molecules such as proteins and viruses with Cryo-EM.  Beyond those current focuses, I have also worked on vehicle localization for robotics, physically realistic models of human motion, probabilistic programming languages, Bayesian methods, MCMC and forensic ballistics.
 
 ## Prospective Students
-Interested in joining my group?  I'm also on the look out for exception students and colleagues to work with.  More information on joining my group is available [here](/join/).
+Interested in joining my group?  I'm also on the look out for exception students and colleagues to work with.  More information on joining my group is available [here](/joining/).
