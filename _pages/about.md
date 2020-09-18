@@ -24,7 +24,9 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 ## News
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.news reversed limit:4 %}
-  1
+{% assign num_posts = 0 %}
+{% for post in site.news reversed %}
+  {% increment num_posts %}
+  {% if num_posts > 4 %} {% break %} {% endif %}
   {% include archive-single.html %}
 {% endfor %}
