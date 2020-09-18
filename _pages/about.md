@@ -20,3 +20,14 @@ Most recently I have been focusing on probabilistic generative models, specifica
 
 ## Prospective Students
 Interested in joining my group?  I'm also on the look out for exceptional students and colleagues to work with.  More information is available [here](/joining/).
+
+## News
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.news reversed limit:4%}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    {% break %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
