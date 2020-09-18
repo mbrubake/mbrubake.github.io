@@ -20,7 +20,8 @@ If you have recently finished your PhD or are expecting to finish it soon and wo
 ## Graduate Students
 I will have space for new students for the 2021-2022 academic year.  Admissions decisions are made by a centralized committee in consultation with faculty such as my self.  To ensure that I see your application and that it is given due consideration mention my name in your application to the [EECS Graduate Program](https://eecs.gradstudies.yorku.ca/) at York University and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfDLDQX6A3cq4aSU135J9KYBfFM4-e2JB9nvF-rPZtKkDS0GQ/viewform?usp=sf_link).  Please note that application deadlines are typically in late Fall (e.g., November or December) for admission to the program in September of the following year.  Applications submitted after the deadline are rarely considered, particularly for international applicants.
 
-**IMPORTANT:** I do not run the admissions process.  I cannot give you an update on the status of your application unless I have already contacted you directly about your application.  I cannot admit you directly to the program without an application to the program.  I cannot waive the program requirements around GPAs or English-language scores (and they are generally quite strict).  Do not ask.{: .notice}
+**IMPORTANT:** I do not run the admissions process.  I cannot give you an update on the status of your application unless I have already contacted you directly about your application.  I cannot admit you directly to the program without an application to the program.  I cannot waive the program requirements around GPAs or English-language scores (and they are generally quite strict).  Do not ask.
+{: .notice}
 
 
 
