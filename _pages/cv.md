@@ -12,11 +12,13 @@ redirect_from:
 Below is a (very) short summary of my CV.  For more information, including a complete list of publications, talks and other details, please see my [full CV](../files/cv.pdf).
 
 ## Education
-* Honours B.Sc. in Computer Science with Minor in Mathematics, University of Toronto, 2004.
-* M.Sc. in Computer Science, University of Toronto, 2006.  
-  Supervisor: David J. Fleet.  Thesis Title: _Physics-Based Priors for Human Pose Tracking_.
 * Ph.D in Computer Science, University of Toronto, 2011.  
-  Supervisor: David J. Fleet.  Thesis Title: _Physical Models of Human Motion for Estimationand Scene Understanding_.
+  Supervisor: David J. Fleet.  
+  Thesis Title: _Physical Models of Human Motion for Estimationand Scene Understanding_.
+* M.Sc. in Computer Science, University of Toronto, 2006.  
+  Supervisor: David J. Fleet.  
+  Thesis Title: _Physics-Based Priors for Human Pose Tracking_.
+* Honours B.Sc. in Computer Science with Minor in Mathematics, University of Toronto, 2004.
 
 ## Work Experience and Affiliations
 ### Current
