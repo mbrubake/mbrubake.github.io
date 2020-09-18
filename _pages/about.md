@@ -24,7 +24,13 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 ## News
 {% include base_path %}
 {% assign news = site.news | reverse %}
+{% capture written_year %}'None'{% endcapture %}
 {% for post in news limit:4 %}
-  {% assign num_posts = num_posts+1 %}
+  {% if written_year != 'None' and year != 'written_year' %}
+    {% break %}
+  {% endif %}
+  {% if year != written_year %}
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
