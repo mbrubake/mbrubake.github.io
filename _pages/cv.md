@@ -26,6 +26,7 @@ Below is a (very) short summary of my CV.  For more information, including a lis
 * Assistant Professor, Status-Only (Adjunct), [University of Toronto](https://www.utoronto.ca), [Department of Computer Science](https://www.cs.toronto.edu)
 * Co-Founder and Scientific Advisor, [Structura Biotechnology](https://structura.bio)
 * Academic Advisor, [Borealis AI](https://borealisai.com) ([Royal Bank of Canada](https://rbc.com))
+* Faculty Member, [NEXT Canada](https://www.nextcanada.com/)
 * Core Member, [Vision: Science to Applications (VISTA)](https://vista.info.yorku.ca/)
 * Faculty Member, [Centre for Vision Research (CVR)](http://www.cvr.yorku.ca/)
 * Associate Editor, [IET Computer Vision](https://digital-library.theiet.org/content/journals/iet-cvi)
