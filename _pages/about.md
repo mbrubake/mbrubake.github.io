@@ -34,12 +34,12 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
   {% assign cyear = post.date | date: '%Y' %}
   {% assign cday = post.date | date: '%j' %}
   {% if cyear != first_year %}
-    {% assign ellapsed_days = 365*(first_year - cyear) + first_day - cday %}
+    {% assign ellapsed_days = first_year | minus:cyear | times:365 | plus:first_day | minus:cday %}
   {% else %}
-    {% assign ellapse_days = first_day - cday %}
+    {% assign ellapse_days = first_day | minus:cday %}
   {% endif %}
   
-  {{ post.date }}, {{ cyear }}, {{ cday }}, {{ ellapse_days }}
+  {{ post.date }}, {{ cyear }}, {{ cday }}, Ellapsed days: {{ ellapse_days }}
   {% if false and ellapse_days >= 365 %}
     day break
     {% break %}
