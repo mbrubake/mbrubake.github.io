@@ -24,7 +24,7 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 ## News
 {% include base_path %}
 {% assign news = site.news | reverse %}
-{% capture written_year %}'None'{% endcapture %}
+{% capture written_year %}None{% endcapture %}
 {% for post in news limit:4 %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {{ year }},{{ written_year }} 
