@@ -39,9 +39,11 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
   
   {{ post.date }}, {{ cyear }}, {{ cday }}, {{ first_day - cday }}
   {% if (first_day - cday) >= 365 %}
+    day break
     {% break %}
   {% endif %}
   {% if written_year != "None" and year != written_year %}
+    Written year break
     {% break %}
   {% endif %}
   {% if year != written_year %}
