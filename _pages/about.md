@@ -44,4 +44,6 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
   {% assign post_count = post_count | plus: 1 %}
 {% endfor %}
 
-For more see [here](/news/).
+---
+
+For more news see [here](/news/).
