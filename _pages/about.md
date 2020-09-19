@@ -26,10 +26,13 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 {% assign news = site.news | reverse %}
 {% assign first_post = news | first %}
 {% assign first_time = first_post.date | date: '%s' %}
+{{ first_time }}
 {% capture written_year %}None{% endcapture %}
 {% for post in news limit:10 %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% assign ctime = post.date | date: '%s' %}
+  
+  {{ ctime }}, {{ first_time - ctime }}, {{ ctime - first_time }}, {{ 60*60*24*7*32 }} 
   {% if (first_time - ctime) >= 60*60*24*7*32 %}
     {% break %}
   {% endif %}
