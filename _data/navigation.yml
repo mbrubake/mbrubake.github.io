@@ -1,19 +1,23 @@
 # main links links
 main:
-  - title: "News"
-    url: /news/
-    
+  - title: "About"
+    url: /about/
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Students and Collaborators"
+  - title: "My Group"
     url: /collabs/
     
-  - title: "Join My Group"
-    url: /joining/
+  - title: "News"
+    url: /news/
+     
+    
+#  - title: "Publications"
+#    url: /publications/
+
+#  - title: "Join My Group"
+#    url: /joining/
 
 #  - title: "Talks"
 #    url: /talks/    
