@@ -21,7 +21,7 @@ Most recently I have been focusing on probabilistic generative models, specifica
 ## Prospective Students
 Interested in joining my group?  I'm also on the look out for exceptional students and colleagues to work with.  More information is available [here](/joining/).
 
-## News
+## [News](/news/)
 {% include base_path %}
 {% assign news = site.news | reverse %}
 {% assign first_post = news | first %}
@@ -38,7 +38,7 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
   {% endif %}
   
   {{ post.date }}, {{ cyear }}, {{ cday }}, {{ first_day - cday }}
-  {% if (first_day - cday) >= 365 %}
+  {% if false and (first_day - cday) >= 365 %}
     day break
     {% break %}
   {% endif %}
@@ -51,3 +51,5 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+For more new, see [here](/news/).
