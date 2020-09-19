@@ -25,10 +25,11 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 {% include base_path %}
 {% assign news = site.news | reverse %}
 {% capture written_year %}None{% endcapture %}
+{{ written_year }}
 {% for post in news limit:4 %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {{ year }},{{ written_year }} 
-  {% if written_year != 'None' and year != written_year %}
+  {% if written_year != "None" and year != written_year %}
     {% break %}
   {% endif %}
   {% if year != written_year %}
