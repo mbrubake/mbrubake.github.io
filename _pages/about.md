@@ -21,7 +21,7 @@ Most recently I have been focusing on probabilistic generative models, specifica
 ## Prospective Students
 Interested in joining my group?  I'm also on the look out for exceptional students and colleagues to work with.  More information is available [here](/joining/).
 
-## [News](/news/)
+# [News](/news/)
 {% include base_path %}
 {% assign news = site.news | reverse %}
 {% assign first_post = news | first %}
@@ -42,4 +42,4 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
   {% include archive-single.html %}
 {% endfor %}
 
-For more new, see [here](/news/).
+For more see [here](/news/).
