@@ -25,15 +25,20 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 {% include base_path %}
 {% assign news = site.news | reverse %}
 {% assign first_post = news | first %}
-{% assign first_time = first_post.date | date: '%s' %}
-{{ first_time }}
+{% assign first_year = first_post.date | date: '%Y' %}
+{% assign first_day = first_post.date | date: '%j' %}
+{{ first_year }}, {{ first_day }}
 {% capture written_year %}None{% endcapture %}
 {% for post in news limit:10 %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% assign ctime = post.date | date: '%s' %}
+  {% assign cyear = post.date | date: '%Y' %}
+  {% assign cday = post.date | date: '%j' %}
+  {% if cyear != first_year %}
+    {% assign cday = cday - 365*(first_year - cyear) %}
+  {% endif %}
   
-  {{ ctime }}, {{ first_time - ctime }}, {{ ctime - first_time }}, {{ 60*60*24*7*32 }} 
-  {% if (first_time - ctime) >= 60*60*24*7*32 %}
+  {{ cyear }}, {{ cday }}, {{ first_day - cday }}
+  {% if (first_day - cday) >= 365 %}
     {% break %}
   {% endif %}
   {% if written_year != "None" and year != written_year %}
