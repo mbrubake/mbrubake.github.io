@@ -26,6 +26,7 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 {% assign news = site.news | reverse %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in news limit:4 %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if written_year != 'None' and year != written_year %}
     {% break %}
   {% endif %}
