@@ -27,6 +27,7 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 {% assign first_post = news | first %}
 {% assign first_year = first_post.date | date: '%Y' %}
 {% assign first_day = first_post.date | date: '%j' %}
+{% assign post_count = 0 %}
 {% for post in news %}
   {% assign cyear = post.date | date: '%Y' %}
   {% assign cday = post.date | date: '%j' %}
@@ -36,10 +37,11 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
     {% assign ellapsed_days = first_day | minus:cday %}
   {% endif %}
   
-  {% if ellapsed_days >= 365 %}
+  {% if ellapsed_days > 365 and post_count > 3 %}
     {% break %}
   {% endif %}
   {% include archive-single.html %}
+  {% assign post_count = post_count | plus 1 %}
 {% endfor %}
 
 For more see [here](/news/).
