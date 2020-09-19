@@ -24,11 +24,15 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
 ## News
 {% include base_path %}
 {% assign news = site.news | reverse %}
+{% assign first_post = news | first %}
+{% assign first_time = first_post.date | date: '%s' %}
 {% capture written_year %}None{% endcapture %}
-{{ written_year }}
-{% for post in news limit:4 %}
+{% for post in news limit:10 %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {{ year }},{{ written_year }} 
+  {% assign ctime = post.date | date: '%s' %}
+  {% if (first_time - ctime) >= 60*60*24*7*32 %}
+    {% break %}
+  {% endif %}
   {% if written_year != "None" and year != written_year %}
     {% break %}
   {% endif %}
