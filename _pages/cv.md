@@ -33,6 +33,6 @@ Below is a (very) short summary of my CV.  For more information, including a lis
 * Member, [Computer Vision Foundation](https://www.thecvf.com/) and [IEEE](http://ieee.org/)
 
 ## Publications
-Below is list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=x2wyjkAAAAAJ">Google Scholar</a>, <a href="http://dblp.dagstuhl.de/pers/hd/b/Brubaker:Marcus_A=">DBLP</a> or download a <a href="{{ base_path }}/files/MABrubaker.bib">BiBTeX file</a>.<br>
+Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=x2wyjkAAAAAJ">Google Scholar</a>, <a href="http://dblp.dagstuhl.de/pers/hd/b/Brubaker:Marcus_A=">DBLP</a> or download a <a href="{{ base_path }}/files/MABrubaker.bib">BiBTeX file</a>.<br>
 
 <script src="https://bibbase.org/show?bib={{ base_path }}/files/MABrubaker.bib&jsonp=1&theme=default"></script>
