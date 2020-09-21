@@ -19,6 +19,8 @@ main:
     url: /joining/
     
   - title: "Group"
+    url: /collabs/
+    children:
     - title: "Students and Collaborators"
       url: /collabs/
       
