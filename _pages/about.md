@@ -14,7 +14,7 @@ I am a member of the [Centre for Vision Research](http://www.cvr.yorku.ca) and c
 
 
 ## Research Interests
-I am interested in building rich, detailed models of the world which capture fundamental relationships between the world and our observations of it. Such models ultimately enable us to measure and predict sometimes surprising details.
+I am interested in building rich, detailed models which capture fundamental relationships between the world and our observations of it. Such models ultimately enable us to measure and predict sometimes surprising details.
 
 Most recently I have been focusing on probabilistic generative models, specifically normalizing flows.  My research has been exploring theoretical aspects of normalizing flows and their applications.  I also have an interest on the problem of estimating the 3D structure of biological molecules such as proteins and viruses with Cryo-EM.  Beyond those current focuses, I have also worked on vehicle localization for robotics, physically realistic models of human motion, probabilistic programming languages, Bayesian methods, MCMC and forensic ballistics.
 
