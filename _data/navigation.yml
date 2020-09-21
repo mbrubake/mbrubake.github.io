@@ -13,11 +13,11 @@ main:
     url: /news/
      
     
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-#  - title: "Join My Group"
-#    url: /joining/
+  - title: "Join My Group"
+    url: /joining/
 
 #  - title: "Talks"
 #    url: /talks/    
