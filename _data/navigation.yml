@@ -18,13 +18,13 @@ main:
   - title: "Join My Group"
     url: /joining/
     
-  - title: "Group"
-    children:
-    - title: "Students and Collaborators"
-      url: /collabs/
+#   - title: "Group"
+#     children:
+#     - title: "Students and Collaborators"
+#       url: /collabs/
       
-    - title: "Join"
-      url: /joining/
+#     - title: "Join"
+#       url: /joining/
 
 #  - title: "Talks"
 #    url: /talks/    
