@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Marcus A. Brubaker"
   avatar           : "profile.png"
-  bio              : "Interested in Computer Vision, Machine Learning, Statistics and their application to a range of problems."
-  location         : "York University, Toronto, Canada"
-  employer         :
+  bio              : "Interested in Computer Vision, Machine Learning, Statistics and their application to a range of problems. He/Him"
+  location         : "Toronto, Canada"
+  employer         : "York University"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=x2wyjkAAAAAJ&hl=en"
   email            : "mab@eecs.yorku.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Marcus_Brubaker" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/c/MarcusBrubaker/"
   wikipedia        :
 
 
