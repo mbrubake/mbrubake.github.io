@@ -11,13 +11,19 @@ main:
     
   - title: "News"
     url: /news/
-     
     
   - title: "Publications"
     url: /publications/
 
   - title: "Join My Group"
     url: /joining/
+    
+  - title: "Group"
+    - title: "Students and Collaborators"
+      url: /collabs/
+      
+    - title: "Join"
+      url: /joining/
 
 #  - title: "Talks"
 #    url: /talks/    
