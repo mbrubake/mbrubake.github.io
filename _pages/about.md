@@ -14,9 +14,36 @@ I am a member of the [Centre for Vision Research](http://www.cvr.yorku.ca) and c
 
 
 ## Research Interests
-I am interested in building rich, detailed models of the world which capture fundamental relationships between the world and our observations of it. Such models ultimately enable us to measure and predict sometimes surprising details.
+I am interested in building rich, detailed models which capture fundamental relationships between the world and our observations of it. Such models ultimately enable us to measure and predict sometimes surprising details.
 
 Most recently I have been focusing on probabilistic generative models, specifically normalizing flows.  My research has been exploring theoretical aspects of normalizing flows and their applications.  I also have an interest on the problem of estimating the 3D structure of biological molecules such as proteins and viruses with Cryo-EM.  Beyond those current focuses, I have also worked on vehicle localization for robotics, physically realistic models of human motion, probabilistic programming languages, Bayesian methods, MCMC and forensic ballistics.
 
 ## Prospective Students
-Interested in joining my group?  I'm also on the look out for exception students and colleagues to work with.  More information on joining my group is available [here](/joining/).
+Interested in joining my group?  I'm also on the look out for exceptional students and colleagues to work with.  More information is available [here](/joining/).
+
+# Recent News
+{% include base_path %}
+{% assign news = site.news | reverse %}
+{% assign first_post = news | first %}
+{% assign first_year = first_post.date | date: '%Y' %}
+{% assign first_day = first_post.date | date: '%j' %}
+{% assign post_count = 0 %}
+{% for post in news %}
+  {% assign cyear = post.date | date: '%Y' %}
+  {% assign cday = post.date | date: '%j' %}
+  {% if cyear != first_year %}
+    {% assign ellapsed_days = first_year | minus:cyear | times:365 | plus:first_day | minus:cday %}
+  {% else %}
+    {% assign ellapsed_days = first_day | minus:cday %}
+  {% endif %}
+  
+  {% if ellapsed_days > 365 and post_count > 3 %}
+    {% break %}
+  {% endif %}
+  {% include archive-single.html %}
+  {% assign post_count = post_count | plus: 1 %}
+{% endfor %}
+
+---
+
+For more news see [here](/news/).
