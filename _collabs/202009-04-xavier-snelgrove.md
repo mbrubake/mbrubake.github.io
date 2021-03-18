@@ -1,5 +1,6 @@
 ---
 name: "Xavier Snelgrove"
+link: "https://wxs.ca/"
 collection: collabs
 type: "MSc"
 student: True

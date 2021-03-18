@@ -1,5 +1,6 @@
 ---
 name: "Shayan Shekarforoush"
+link: "https://shekshaa.github.io/"
 collection: collabs
 type: "PhD"
 student: True
