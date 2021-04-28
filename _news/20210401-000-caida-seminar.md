@@ -1,9 +1,8 @@
 ---
-title: 'Seminar at UBC`
+title: 'Seminar at UBC'
 date: 2021-04-01
 permalink: /news/2021/04/ubc-seminar/
 tags:
-  - travel
   - talks
 ---
 
