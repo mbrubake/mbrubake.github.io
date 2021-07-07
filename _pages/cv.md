@@ -14,7 +14,7 @@ Below is a (very) short summary of my CV.  For more information, including a lis
 ## Education
 * Ph.D in Computer Science, University of Toronto, 2011.  
   Supervisor: David J. Fleet.  
-  Thesis Title: _Physical Models of Human Motion for Estimationand Scene Understanding_.
+  Thesis Title: _Physical Models of Human Motion for Estimation and Scene Understanding_.
 * M.Sc. in Computer Science, University of Toronto, 2006.  
   Supervisor: David J. Fleet.  
   Thesis Title: _Physics-Based Priors for Human Pose Tracking_.
@@ -25,6 +25,7 @@ Below is a (very) short summary of my CV.  For more information, including a lis
 * Faculty Affiliate, [Vector Institute](https://vectorinstitute.ai)
 * Assistant Professor, Status-Only (Adjunct), [University of Toronto](https://www.utoronto.ca), [Department of Computer Science](https://www.cs.toronto.edu)
 * Co-Founder and Scientific Advisor, [Structura Biotechnology](https://structura.bio)
+* Visiting Professor, [Samsung AI Center - Toronto](https://research.samsung.com/aicenter_toronto)
 * Academic Advisor, [Borealis AI](https://borealisai.com) ([Royal Bank of Canada](https://rbc.com))
 * Faculty Member, [NEXT Canada](https://www.nextcanada.com/)
 * Core Member, [Vision: Science to Applications (VISTA)](https://vista.info.yorku.ca/)
