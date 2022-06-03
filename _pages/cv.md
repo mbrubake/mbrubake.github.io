@@ -11,7 +11,7 @@ redirect_from:
 
 Below are some highlights from my CV.
 
-For more information, please see my *[Full CV](../files/cv.pdf)*.
+For more information, please see the PDF of my **[Full CV](../files/cv.pdf)**.
 
 ## Education
 * Ph.D in Computer Science, University of Toronto, 2011.  
