@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a (very) short summary of my CV.  For more information, including a list talks and other details, please see my [full CV](../files/cv.pdf).
+Below are some highlights from my CV.
+
+For more information, please see my *[Full CV](../files/cv.pdf)*.
 
 ## Education
 * Ph.D in Computer Science, University of Toronto, 2011.  
@@ -20,10 +22,12 @@ Below is a (very) short summary of my CV.  For more information, including a lis
   Thesis Title: _Physics-Based Priors for Human Pose Tracking_.
 * Honours B.Sc. in Computer Science with Minor in Mathematics, University of Toronto, 2004.
 
-## Current Affiliations
+## Primary Affiliations
 * Assistant Professor, [York University](https://yorku.ca), [Lassonde School of Engineering](http://lassonde.yorku.ca/), [Department of Electrical Engineering and Computer Science](https://www.eecs.yorku.ca/)
 * Faculty Affiliate, [Vector Institute](https://vectorinstitute.ai)
 * Assistant Professor, Status-Only (Adjunct), [University of Toronto](https://www.utoronto.ca), [Department of Computer Science](https://www.cs.toronto.edu)
+
+## Other Affiliations and Activities
 * Co-Founder and Scientific Advisor, [Structura Biotechnology](https://structura.bio)
 * Visiting Professor, [Samsung AI Center - Toronto](https://research.samsung.com/aicenter_toronto)
 * Academic Advisor, [Borealis AI](https://borealisai.com) ([Royal Bank of Canada](https://rbc.com))
