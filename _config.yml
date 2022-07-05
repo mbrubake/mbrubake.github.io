@@ -70,14 +70,10 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-remote_theme: jekyll/minima
-
-plugins:
-- jekyll-remote-theme
-
 # Analytics
-google_analytics: 321872182
-#analytics:
+analytics:
+  provider               :  "google_analytics"
+  google_analytics       : 321872182
 #  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
 #  google:
 #    tracking_id          : UA-8317603-4
