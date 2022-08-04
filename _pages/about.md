@@ -42,7 +42,7 @@ Interested in joining my group?  I'm also on the look out for exceptional studen
   {% if ellapsed_days > 365 and post_count > 3 %}
     {% break %}
   {% endif %}
-  {% include archive-single.html %}
+  {% include archive-single-news.html %}
   {% assign post_count = post_count | plus: 1 %}
 {% endfor %}
 
