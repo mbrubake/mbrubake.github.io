@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "My Group"
-    url: /collabs/
+#  - title: "My Group"
+#    url: /collabs/
     
   - title: "News"
     url: /news/
