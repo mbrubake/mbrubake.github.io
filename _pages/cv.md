@@ -23,7 +23,7 @@ For more information, please see the PDF of my **[Full CV](../files/cv.pdf)**.
 * Honours B.Sc. in Computer Science with Minor in Mathematics, University of Toronto, 2004.
 
 ## Primary Affiliations
-* Assistant Professor, [York University](https://yorku.ca), [Lassonde School of Engineering](http://lassonde.yorku.ca/), [Department of Electrical Engineering and Computer Science](https://www.eecs.yorku.ca/)
+* Associate Professor, [York University](https://yorku.ca), [Lassonde School of Engineering](http://lassonde.yorku.ca/), [Department of Electrical Engineering and Computer Science](https://www.eecs.yorku.ca/)
 * Co-Founder and Co-Director, [Computational Vision and Imaging Lab](https://yorkucvil.github.io) at York University
 * Faculty Affiliate, [Vector Institute](https://vectorinstitute.ai)
 * Assistant Professor, Status-Only (Adjunct), [University of Toronto](https://www.utoronto.ca), [Department of Computer Science](https://www.cs.toronto.edu)
