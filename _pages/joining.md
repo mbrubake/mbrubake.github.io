@@ -8,6 +8,7 @@ redirect_from:
   - /join.html
 ---
 
-**Note: I am currently on leave and am not accepting any new graduate students. **
-I am always on the look out for talented students who are passionate about research in computer vision and machine learning and are strongly oriented towards mathematical and probabilistic methodology.  If this sounds like you, please see the information on the [CVIL website](https://yorkucvil.github.io/joinus/).
+*Note: I am currently on leave and am not accepting any new graduate students. *
+
+Information on joining the lab can be found on the [CVIL website](https://yorkucvil.github.io/joinus/).
 
