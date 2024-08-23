@@ -8,7 +8,5 @@ redirect_from:
   - /join.html
 ---
 
-*Note: I am currently on leave and am not accepting any new graduate students. *
-
-Information on joining the lab can be found on the [CVIL website](https://yorkucvil.github.io/joinus/).
+**I am currently on leave and am not accepting any new graduate students. **. Information on joining the lab can be found on the [CVIL website](https://yorkucvil.github.io/joinus/).
 
