@@ -23,6 +23,7 @@ For more information, please see the PDF of my **[Full CV](../files/cv.pdf)**.
 * Honours B.Sc. in Computer Science with Minor in Mathematics, University of Toronto, 2004.
 
 ## Primary Affiliations
+* Research Scientist, Google DeepMind
 * Associate Professor, [York University](https://yorku.ca), [Lassonde School of Engineering](http://lassonde.yorku.ca/), [Department of Electrical Engineering and Computer Science](https://www.eecs.yorku.ca/)
 * Co-Founder and Co-Director, [Computational Vision and Imaging Lab](https://yorkucvil.github.io) at York University
 * Faculty Affiliate, [Vector Institute](https://vectorinstitute.ai)
@@ -30,8 +31,6 @@ For more information, please see the PDF of my **[Full CV](../files/cv.pdf)**.
 
 ## Other Affiliations and Activities
 * Co-Founder and Scientific Advisor, [Structura Biotechnology](https://structura.bio)
-* Visiting Professor, [Samsung AI Center - Toronto](https://research.samsung.com/aicenter_toronto)
-* Academic Advisor, [Borealis AI](https://borealisai.com) ([Royal Bank of Canada](https://rbc.com))
 * Faculty Member, [NEXT Canada](https://www.nextcanada.com/)
 * Core Member, [Vision: Science to Applications (VISTA)](https://vista.info.yorku.ca/)
 * Faculty Member, [Centre for Vision Research (CVR)](http://www.cvr.yorku.ca/)
